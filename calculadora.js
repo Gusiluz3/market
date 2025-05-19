@@ -6,6 +6,8 @@ function restar(a, b) {
   return a - b;
 }
 
+//Se agregan funciones para corregir issue
+
 function multiplicar(a, b) {
   return a * b;
 }
